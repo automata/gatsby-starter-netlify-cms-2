@@ -10,4 +10,4 @@ tags:
 ---
 And some text.
 
-![](/img/screen shot 2018-03-26 at 17.48.13.png)
+![](/img/braille_neue_top.jpg)
